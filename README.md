@@ -1,6 +1,6 @@
 Python2Go Transpiler
 
-Python2Go is a blazing-fast transpiler written in Rust that converts Python code into equivalent Go code. It’s designed for developers who want to migrate Python projects to the Go ecosystem without rewriting everything manually.
+Python2Go is a blazing-fast transpiler written in C that converts Python code into equivalent Go code. It’s designed for developers who want to migrate Python projects to the Go ecosystem without rewriting everything manually.
 
 This project is fully open-source under the Apache 2.0 license, and precompiled binaries are available in the Releases section.
 
